@@ -1,0 +1,9 @@
+#!/bin/sh
+#
+# Perform necessary TEST removal steps
+# after package is uninstalled.
+#
+
+echo "TEST has been uninstalled!"
+
+exit 0
