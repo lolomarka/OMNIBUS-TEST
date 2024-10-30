@@ -82,3 +82,8 @@ checked program was:
 ```sh
 sudo dnf install gcc
 ```
+
+Таким образом для установки Omnibus на "чистой" Fedora 40 необходимо также установить:
+- `ruby-devel`;
+- `libffi-devel`;
+- `gcc`.
